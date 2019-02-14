@@ -63,7 +63,7 @@ h1 {
   background: #fff;
 }
 
-/*.timeline ul li::after {
+.timeline ul li::after {
   content: '';
   position: absolute;
   left: 50%;
@@ -75,7 +75,7 @@ h1 {
   background: inherit;
 }
 
-.timeline ul li div {
+/*.timeline ul li div {
   position: relative;
   bottom: 0;
   width: 400px;
