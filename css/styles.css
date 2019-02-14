@@ -54,7 +54,7 @@ h1 {
   padding: 50px 0;
 }
 
-/*.timeline ul li {
+.timeline ul li {
   list-style-type: none;
   position: relative;
   width: 6px;
@@ -63,7 +63,7 @@ h1 {
   background: #fff;
 }
 
-.timeline ul li::after {
+/*.timeline ul li::after {
   content: '';
   position: absolute;
   left: 50%;
