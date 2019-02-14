@@ -125,11 +125,11 @@ time {
   transition: background .5s ease-in-out;
 }
 
-/*.timeline ul li.in-view::after {
+.timeline ul li.in-view::after {
   background: #F45B69;
 }
 
-.timeline ul li div {
+/*.timeline ul li div {
   visibility: hidden;
   opacity: 0;
   transition: all .5s ease-in-out;
