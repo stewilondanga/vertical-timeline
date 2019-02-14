@@ -31,13 +31,12 @@ body {
 
 /* INTRO SECTION
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-/*
 .intro {
   background: #F45B69;
   padding: 100px 0;
 }
 
-.container {
+/*.container {
   width: 90%;
   max-width: 1200px;
   margin: 0 auto;
