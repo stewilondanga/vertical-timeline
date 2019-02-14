@@ -121,12 +121,11 @@ time {
 
 /* EFFECTS
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-/*
 .timeline ul li::after {
   transition: background .5s ease-in-out;
 }
 
-.timeline ul li.in-view::after {
+/*.timeline ul li.in-view::after {
   background: #F45B69;
 }
 
