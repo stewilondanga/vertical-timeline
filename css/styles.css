@@ -83,7 +83,7 @@ h1 {
   background: #F45B69;
 }
 
-/*.timeline ul li div::before {
+.timeline ul li div::before {
   content: '';
   position: absolute;
   bottom: 7px;
@@ -92,7 +92,7 @@ h1 {
   border-style: solid;
 }
 
-.timeline ul li:nth-child(odd) div {
+/*.timeline ul li:nth-child(odd) div {
   left: 45px;
 }
 
