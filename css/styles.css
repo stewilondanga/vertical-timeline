@@ -135,11 +135,11 @@ time {
   transition: all .5s ease-in-out;
 }
 
-/*.timeline ul li:nth-child(odd) div {
+.timeline ul li:nth-child(odd) div {
   transform: translate3d(200px, 0, 0);
 }
 
-.timeline ul li:nth-child(even) div {
+/*.timeline ul li:nth-child(even) div {
   transform: translate3d(-200px, 0, 0);
 }
 
