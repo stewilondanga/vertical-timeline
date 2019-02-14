@@ -143,12 +143,11 @@ time {
   transform: translate3d(-200px, 0, 0);
 }
 
-/*.timeline ul li.in-view div {
+.timeline ul li.in-view div {
   transform: none;
   visibility: visible;
   opacity: 1;
 }
-
 
 /* GENERAL MEDIA QUERIES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
