@@ -96,13 +96,13 @@ h1 {
   left: 45px;
 }
 
-/*.timeline ul li:nth-child(odd) div::before {
+.timeline ul li:nth-child(odd) div::before {
   left: -15px;
   border-width: 8px 16px 8px 0;
   border-color: transparent #F45B69 transparent transparent;
 }
 
-.timeline ul li:nth-child(even) div {
+/*.timeline ul li:nth-child(even) div {
   left: -439px;
 }
 
