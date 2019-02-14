@@ -26,17 +26,17 @@ var navigate = (function() {
       );
     }
 
-    /*  function callbackFunc() {
-        for (var i = 0; i < items.length; i++) {
-          if (isElementInViewport(items[i])) {
-            items[i].classList.add("in-view");
-          }
+    function callbackFunc() {
+      for (var i = 0; i < items.length; i++) {
+        if (isElementInViewport(items[i])) {
+          items[i].classList.add("in-view");
         }
       }
+    }
+    /*
+          // listen for events
+          window.addEventListener("load", callbackFunc);
+          window.addEventListener("resize", callbackFunc);
+          window.addEventListener("scroll", callbackFunc);
 
-      // listen for events
-      window.addEventListener("load", callbackFunc);
-      window.addEventListener("resize", callbackFunc);
-      window.addEventListener("scroll", callbackFunc);
-
-    })();
+        })();
