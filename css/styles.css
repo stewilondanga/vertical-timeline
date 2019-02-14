@@ -75,7 +75,7 @@ h1 {
   background: inherit;
 }
 
-/*.timeline ul li div {
+.timeline ul li div {
   position: relative;
   bottom: 0;
   width: 400px;
@@ -83,7 +83,7 @@ h1 {
   background: #F45B69;
 }
 
-.timeline ul li div::before {
+/*.timeline ul li div::before {
   content: '';
   position: absolute;
   bottom: 7px;
